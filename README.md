@@ -1,2 +1,2 @@
 # Foundation-of-Machine-Learning
-Machine Learning Sikhunga
+Machine Learning Codes
